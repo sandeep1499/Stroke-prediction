@@ -10,10 +10,8 @@ Question: How does stroke incidence vary by residence type (urban or rural)?
 4.Lifestyle Factors Analysis:
 Question: Are there differences in stroke incidence among different smoking 
 statuses?
-5.Age and BMI Relationship:
-Question: Is there a correlation between age and BMI (body mass index) in the 
-dataset?
-6.Age-Related Lifestyle Factors:
+5.Age-Related Lifestyle Factors:
 Question: How do lifestyle factors like smoking status vary among different age 
 groups?
+6. Apply machine learning to predict stroke.
 
